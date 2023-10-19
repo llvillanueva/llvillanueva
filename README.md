@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/llvillanuevaph" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="llvillanueva" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/llvillanueva/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="llvillanueva" height="30" width="40" /></a>
-<a href="https://www.instagram.com/wronskiii/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram" alt="llvillanueva" height="30" width="40" /></a>
+<a href="https://www.instagram.com/wronskiii/" target="blank"><img align="center" src="https://commons.wikimedia.org/wiki/File:Instagram_logo_2016.svg#/media/File:Instagram_logo_2016.svg" alt="llvillanueva" height="30" width="40" /></a>
 </p>
 
 
