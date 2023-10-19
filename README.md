@@ -1,5 +1,5 @@
-<h1 align="center">Mabuhay! I'm $bash 👋 </h1>
-<h3 align="center">Mathematical Physicist turned Data Scientist from Philippines</h3>
+<h1 align="center">Mabuhay! I'm $Lloydie from the Philippines 👋 </h1>
+<h3 align="center">Mathematical Physicist turned Data Scientist </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=llvillanueva&label=Profile%20views&color=0e75b6&style=flat" alt="llvillanueva" /> </p>
 
@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently an Earth Physics System diploma student at ICTP 
 
-- 👨‍💻  at **[https://llvillanueva.github.io/](https://llvillanueva.github.io/)**
+- 👨‍💻 You can now more about me at **[https://llvillanueva.github.io/](https://llvillanueva.github.io/)**
 
 <!-- 📝 I write articles on **[https://www.linkedin.com/in/albertyumol/](https://www.linkedin.com/in/albertyumol/)**-->
 
-- 💬 Ask me about **data science, machine learning, deep learning, computer version, data ethics, data activism**
+- 💬 Ask me about **machine learning, deep learning, spatial data science, computer vision, natural processing language, Earth science, climate change, climate processes, complex analysis, asymptotic and perturbation, fluid dynamics.**
 
 - 📫 Reach me via email at **llvillanuevaph@gmail.com**
 
@@ -30,7 +30,7 @@
 <p align="left"> 
   
   <a href="https://python.org" target="_blank"> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://codeigniter.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> 
+  <a href="https://fortrar-lang.org" target="_blank"> <img src="https://seeklogo.com/images/F/fortran-logo-D3D013834F-seeklogo.com.png" alt="codeigniter" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
   <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
