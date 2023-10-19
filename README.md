@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=llvillanueva" alt="llvillanueva" /></a> </p>
 
-- 🌱 I’m currently an Earth Physics System diploma student at ICTP 
+- 🌱 I’m currently an Earth Physics System diploma student at **[ICTP](https://www.ictp.it/)** 
 
 - 👨‍💻 You can now more about me at **[https://llvillanueva.github.io/](https://llvillanueva.github.io/)**
 
