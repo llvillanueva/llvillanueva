@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently an Earth Physics System diploma student at **[ICTP](https://www.ictp.it/)** 
 
-- 👨‍💻 You can now more about me at **[https://llvillanueva.github.io/](https://llvillanueva.github.io/)**
+- 👨‍💻 You can know more about me at **[https://llvillanueva.github.io/](https://llvillanueva.github.io/)**
 
 <!-- 📝 I write articles on **[https://www.linkedin.com/in/albertyumol/](https://www.linkedin.com/in/albertyumol/)**-->
 
-- 💬 Ask me about **machine learning, deep learning, spatial data science, computer vision, natural processing language, Earth science, climate change, climate processes, complex analysis, asymptotic and perturbation, fluid dynamics.**
+- 💬 Ask me about **machine learning, deep learning, Earth systems, climate change, climate processes, complex analysis, asymptotic and perturbation, geophysical/computational fluid dynamics.**
 
-- 📫 Reach me via email at **llvillanuevaph@gmail.com**
+- 📫 Reach me via email at **llvillanuevaph@gmail.com** or **lvillanu@ictp.it**  
 
 <!--- ⚡ Fun fact: **I'm a tarot card reader**-->
 
