@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fortran,matlab,linux,vscode,postgres,git,docker,c,arduino" />
+    <img src="https://skillicons.dev/icons?i=py,fortran,matlab,linux,vscode,postgres,aws,git,docker,c,arduino" />
   </a>
 </p>
 
