@@ -15,7 +15,7 @@
 
 - 📫 Reach me via email at **llvillanuevaph@gmail.com** or **lvillanu@ictp.it**  
 
-<!--- ⚡ Fun fact: **I'm a tarot card reader**-->
+- ⚡ Fun fact: **I'm a freediver**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,8 +28,30 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+
+# Skills: 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,fortran, matlab, linux, vscode, postgres, git,docker,c,arduino" />
+  </a>
+</p>
+
+<!--![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Fortran]
+![MATLAB]
+![Wolfram Mathematica]
+![Maple]
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+-->
   
-  <a href="https://python.org" target="_blank"> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" alt="bootstrap" width="40" height="40"/> </a> 
+ <!-- <a href="https://python.org" target="_blank"> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://fortrar-lang.org" target="_blank"> <img src="https://seeklogo.com/images/F/fortran-logo-D3D013834F-seeklogo.com.png" alt="codeigniter" width="40" height="40"/> </a> 
   <a href="https://www.wolfram.com/mathematica/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
@@ -42,7 +64,7 @@
   <a href="https://www.latex-project.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
   <a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.dataiku.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/3914/PNG/512/dataiku_logo_icon_249065.png" alt="php" width="40" height="40"/> </a> 
-
+-->
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/llvillanueva"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="albertyu" /></a></p><br><br>
