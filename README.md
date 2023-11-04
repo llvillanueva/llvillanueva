@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently an Earth Physics System diploma student at **[ICTP](https://www.ictp.it/)** 
 
-- 👨‍💻 You can know more about me at **[https://llvillanueva.github.io/](https://llvillanueva.github.io/)**
+- 👨‍💻 You can know more about me at **[https://llvillanueva.github.io/](https://llvillanueva.github.io/)** (will up soonest)
 
 <!-- 📝 I write articles on **[https://www.linkedin.com/in/albertyumol/](https://www.linkedin.com/in/albertyumol/)**-->
 
