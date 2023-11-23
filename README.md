@@ -15,7 +15,7 @@
 
 - 📫 Reach me via email at **llvillanuevaph@gmail.com** or **lvillanu@ictp.it**  
 
-- ⚡ Fun fact: **I do freediving and I'm skin care enthusiast**
+- ⚡ Fun fact: **I do freediving and I'm a skin care enthusiast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
