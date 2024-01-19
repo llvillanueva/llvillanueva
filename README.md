@@ -1,4 +1,4 @@
-<h1 align="center">Mabuhay! I'm $Lloydie from the Philippines 👋 </h1>
+<h1 align="center">Mabuhay! I'm $Lloydie$ from the Philippines 👋 </h1>
 <h3 align="center">Mathematical Physicist turned Data Scientist </h3>
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=llvillanueva&label=Profile%20views&color=0e75b6&style=flat" alt="llvillanueva" /> </p>
