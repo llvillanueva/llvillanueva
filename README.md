@@ -1,8 +1,8 @@
 <h1 align="center">Mabuhay! I'm $Lloydie from the Philippines 👋 </h1>
 <h3 align="center">Mathematical Physicist turned Data Scientist </h3>
-
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=llvillanueva&label=Profile%20views&color=0e75b6&style=flat" alt="llvillanueva" /> </p>
-
+-->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=llvillanueva" alt="llvillanueva" /></a> </p>
 
 - 🌱 I’m currently an Earth Physics System diploma student at **[ICTP](https://www.ictp.it/)** 
