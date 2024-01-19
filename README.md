@@ -2,9 +2,8 @@
 <h3 align="center">Mathematical Physicist turned Data Scientist </h3>
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=llvillanueva&label=Profile%20views&color=0e75b6&style=flat" alt="llvillanueva" /> </p>
--->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=llvillanueva" alt="llvillanueva" /></a> </p>
-
+-->
 - 🌱 I’m currently an Earth Physics System diploma student at **[ICTP](https://www.ictp.it/)** 
 
 - 👨‍💻 You can know more about me at **[https://llvillanueva.github.io/](https://llvillanueva.github.io/)**
@@ -68,7 +67,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/llvillanueva"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="albertyu" /></a></p><br><br>
-
+<!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=llvillanueva&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llvillanueva&show_icons=true&theme=material-palenight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
