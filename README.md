@@ -66,9 +66,10 @@
   <a href="https://www.dataiku.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/3914/PNG/512/dataiku_logo_icon_249065.png" alt="php" width="40" height="40"/> </a> 
 -->
 
+
+<!--
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/llvillanueva"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="albertyu" /></a></p><br><br>
-<!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=llvillanueva&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
