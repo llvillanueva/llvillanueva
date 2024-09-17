@@ -72,5 +72,6 @@
 <p><a href="https://www.buymeacoffee.com/llvillanueva"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="albertyu" /></a></p><br><br>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=llvillanueva&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llvillanueva&show_icons=true&theme=material-palenight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
