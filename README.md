@@ -24,7 +24,7 @@
 <a href="https://www.instagram.com/wronskiii/" target="blank"><img align="center" src="https://www.svgrepo.com/show/365495/instagram-logo-thin.svg" alt="llvillanueva" height="30" width="40" /></a>
 </p>
 
-
+<!--!
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -36,7 +36,7 @@
     <img src="https://skillicons.dev/icons?i=py,fortran,matlab,julia,latex,linux,vscode,postgres,aws,git,docker,c,arduino" />
   </a>
 </p>
-
+-->
 <!--![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Fortran]
 ![MATLAB]
