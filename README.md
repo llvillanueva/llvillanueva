@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=llvillanueva" alt="llvillanueva" /></a> </p>
 -->
 
-- 🌱 I’m currently a PhD student at **[Chalmers University of Technology]([https://www.ictp.it/](https://www.chalmers.se/en/)** 
+- 🌱 I’m currently a PhD student at **[Chalmers University of Technology](https://www.chalmers.se/en/)** 
 
 - 👨‍💻 You can know more about me at **[https://llvillanueva.github.io/](https://llvillanueva.github.io/)**
 
