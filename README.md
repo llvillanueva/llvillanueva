@@ -5,13 +5,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=llvillanueva" alt="llvillanueva" /></a> </p>
 -->
 
-- 🌱 I’m currently an Earth Physics System diploma student at **[ICTP](https://www.ictp.it/)** 
+- 🌱 I’m currently a PhD student at **[Chalmers University of Technology]([https://www.ictp.it/](https://www.chalmers.se/en/))** 
 
 - 👨‍💻 You can know more about me at **[https://llvillanueva.github.io/](https://llvillanueva.github.io/)**
 
 <!-- 📝 I write articles on **[https://www.linkedin.com/in/albertyumol/](https://www.linkedin.com/in/albertyumol/)**-->
 
-- 💬 Ask me about **machine learning, data science, Earth systems, climate variability and change, climate extremes, complex analysis, asymptotic and perturbation, geophysical/computational fluid dynamics.**
+- 💬 Ask me about **Earth systems, convection dynamics and clouds, climate variability and change, climate extremes, complex analysis, asymptotic and perturbation, geophysical/computational fluid dynamics.**
 
 - 📫 Reach me via email at **llvillanuevaph@gmail.com** or **lvillanu@ictp.it**  
 
