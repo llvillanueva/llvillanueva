@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Earth systems, convection dynamics and clouds, climate variability and change, climate extremes, complex analysis, asymptotic and perturbation, geophysical/computational fluid dynamics.**
 
-- 📫 Reach me via email at **llvillanuevaph@gmail.com** or **lvillanu@ictp.it**  
+- 📫 Reach me via email at **llvillanuevaph@gmail.com** or **lloyd.villanueva@chalmers.se**  
 
 - ⚡ Fun fact: **I do freediving and a skin care enthusiast**
 
